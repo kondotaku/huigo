@@ -1,5 +1,5 @@
 ---
-title: "Post"
+title: "EXIT"
 date: 2020-04-10T01:32:05+09:00
 tags: ["Go", "profiling"]
 categories : [ "hugo" ]
