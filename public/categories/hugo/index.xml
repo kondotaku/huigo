@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on My New Hugo Site</title>
+    <link>http://example.org/categories/hugo/</link>
+    <description>Recent content in hugo on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 01:32:05 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post</title>
+      <link>http://example.org/blog/post/</link>
+      <pubDate>Fri, 10 Apr 2020 01:32:05 +0900</pubDate>
+      
+      <guid>http://example.org/blog/post/</guid>
+      <description>おあとがヒュイゴー exitの決め台詞です かっこいい
+メンバー   りんたろー
+ 性別：男性 生年月日：1986年03月06日 身長/体重：180cm /85kg 血液型：A型 出身地：静岡県 趣味：美容、事務、お酒、パチンコ 特技：サッカー、フットサル(GK)、カラオケ、介護    兼近
+ 性別：男性 生年月日：1991年05月11日 身長/体重：172cm /60kg    </description>
+    </item>
+    
+  </channel>
+</rss>
